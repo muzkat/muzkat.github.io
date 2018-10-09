@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/muzkat/muzkat.github.io#readme",
   "dependencies": {
-    "bootstrap": "^4.1.1"
+    "bootstrap": "^4.1.3"
   }
 }
